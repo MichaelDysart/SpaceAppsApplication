@@ -9,6 +9,6 @@ The backend can be found at:
 https://github.com/VikramBombhi/SpaceApps
 
 See our submission to the NASA Space Apps Competition at:
-https://2017.spaceappschallenge.org/challenges/our-ecological-neighborhood/migratory-travels-and-travel-stories/teams/bird-watchers/project
+https://2017.spaceappschallenge.org/challenges/our-ecological-neighborhood/migratory-travels-and-travel-stories/teams/bird-watchers
 
 
